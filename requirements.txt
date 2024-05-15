@@ -1,0 +1,21 @@
+wheel
+pyttsx3
+pywin32
+setuptools-rust
+pynput
+pystray
+psutil
+numpy
+tqdm
+more-itertools
+transformers
+ffmpeg-python==0.2.0
+click
+pyaudio
+SpeechRecognition
+pydub
+torch
+torchvision
+torchaudio
+openai-whisper
+# --extra-index-url https://download.pytorch.org/whl/cu117
